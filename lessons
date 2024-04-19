@@ -1,0 +1,5 @@
+I am a bit weak in prefix and suffix array.
+I mean not weak ofcourse but it takes time.
+
+Do not use unordered_map. Use map instead, a log(n) 
+factor wont change my solution. UM is unpredictable.
